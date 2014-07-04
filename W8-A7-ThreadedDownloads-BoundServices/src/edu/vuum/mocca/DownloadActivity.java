@@ -146,7 +146,7 @@ public class DownloadActivity extends DownloadBase {
 			// image whose pathname is passed as a parameter to
 			// sendPath(). Please use displayBitmap() defined in
 			// DownloadBase.
-            	Log.d(TAG, " n sendpath in activity");
+            	Log.d(TAG, " n sendpath in activity d");
 			// Runnable displayRunnable =
 			runOnUiThread(new Runnable() {
 
